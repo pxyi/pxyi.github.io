@@ -1,0 +1,19 @@
+<header class="header">
+	<nav class="nav">
+		<div class="logo"><img src="/assets/logo.png" alt="logo"></div>
+		<ol class="nav-bar">
+		  {% for item in site.data.nav %}
+		    <li><a href="{{ item.path }}">{{ item.title }}</a></li>
+		  {% endfor %}
+		</ol>
+		<div class="search">
+			
+		</div>
+	</nav>
+</header>
+
+
+
+<script>
+	var list = [{% for item in site.posts %}{title:'{{item.title}}', url: '{{item.url}}'},{% endfor %}];
+</script>

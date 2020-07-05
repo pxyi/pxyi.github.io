@@ -1,0 +1,30 @@
+[
+	{
+		"title": "Home",
+		"path": "/"
+	},
+	{
+		"title": "Html/Css",
+		"path": "/htmlcss.html"
+	},
+	{
+		"title": "JavaScript",
+		"path": "/javascript.html"
+	},
+	{
+		"title": "Node",
+		"path": "/node.html"
+	},
+	{
+		"title": "Mvvm",
+		"path": "/mvvm.html"
+	},
+	{
+		"title": "Other",
+		"path": "/other.html"
+	},
+	{
+		"title": "About",
+		"path": "/about.html"
+	}
+]
