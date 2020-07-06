@@ -1,6 +1,6 @@
 ---
-layout: default
 title: About
+layout: default
 ---
 
 # 黄存亚
