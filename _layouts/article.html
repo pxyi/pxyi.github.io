@@ -16,16 +16,22 @@
 
 		<div class="article-date">
 			{{ page.date | date: "%Y-%m-%d" }}
-			<!-- id 将作为查询条件 -->
-			<span id="{{ page.url }}" class="leancloud_visitors" data-flag-title="{{ page.title }}">阅读量
-				<i class="leancloud-visitors-count">-</i>
-			</span>
+			{% if site.valine == true %}
+				<!-- id 将作为查询条件 -->
+				<span id="{{ page.url }}" class="leancloud_visitors" data-flag-title="{{ page.title }}">阅读量
+					<i class="leancloud-visitors-count">-</i>
+				</span>
+			{% endif %}
 		</div>
 
 		<div class="article-container">{{ page.content }}</div>
 
+		{% if site.valine == true %}
+			{% include comments.html %}
+		{% endif %}
 
-		{% include comments.html %}
+
+		
 
 	</div>
 
