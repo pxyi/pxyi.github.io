@@ -6,7 +6,7 @@ layout: default
   <ul>
     {% for post in site.posts %}
       <li>
-        <h1><a href="{{ post.url }}">{{ post.title }}</a></h1>
+        <h2><a href="{{ post.url }}">{{ post.title }}</a></h2>
         <p class="author">
           <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
         </p>
