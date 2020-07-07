@@ -1,8 +1,9 @@
 ---
-layout: article
 title: 最简单的方式实现瀑布流效果
-date:   2019-03-03
-categories: htmlcss
+date: 2019-03-03 00:00:00 Z
+categories:
+- htmlcss
+layout: article
 ---
 
 瀑布流效果常用于不同规格的图片或商品展示页面，大多包含图片，因无法确定图片大小所以使用瀑布流效果更加美观。
