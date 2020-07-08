@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<urlset
+    xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9
+       http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd"
+>
+
+<url>
+ <loc>https://pxyi.github.io/htmlcss/2019/03/03/waterfall.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/javascript.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/mvvm/2019/05/13/vue-router.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/javascript/2020/03/01/closure.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/node/2019/04/20/koa.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/htmlcss.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/about.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/other/2019/05/22/url.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/javascript/2020/04/01/debounce.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/other/2019/05/20/browser-kernel.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/mvvm.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/other/2019/03/06/markdown.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/node.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/javascript/2019/03/05/observer.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+<url>
+ <loc>https://pxyi.github.io/other.html</loc>
+ <priority>0.3</priority>
+ <lastmod>2020-07-07</lastmod>
+ <changefreq>weekly</changefreq>
+</url>
+
+</urlset>
