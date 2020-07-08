@@ -9,3 +9,9 @@ github_username: pxyi
 theme: minima
 
 valine: true
+
+
+plugins: [jekyll-paginate]
+
+paginate: 10  
+paginate_path: ":num"

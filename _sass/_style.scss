@@ -77,3 +77,12 @@ header.header {
 hr {
 	margin: 40px 0;
 }
+
+.pagination {
+	margin-top: 40px;
+	text-align: center;
+	a, em ,span {
+		margin: 0 8px;
+		font-style: normal;
+	}
+}
