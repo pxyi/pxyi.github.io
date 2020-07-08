@@ -1,6 +1,8 @@
 ---
 layout: article
 title: Vue-Router核心实现原理
+keywords: Vue-Router,Vue-Router核心实现原理
+description: Vue-Router核心实现原理
 date: 2019-05-13 00:00:00 Z
 categories: mvvm
 ---
