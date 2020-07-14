@@ -1,3 +1,7 @@
 CACHE MANIFEST
-  #version1.0.0
-  assets/logo.png
+#version1.0.1
+/favicon.ico
+/assets/logo.png
+/assets/main.css
+/assets/css/main.css
+/manifest.json
