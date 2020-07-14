@@ -1,6 +1,7 @@
 {
   "short_name": "phuhoang",
   "name": "phuhoang",
+  "description": "黄存亚个人主页，主要记录分享个人工作学习中的知识点",
   "icons": [
     {
       "src": "favicon.ico",
