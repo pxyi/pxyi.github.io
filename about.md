@@ -6,8 +6,7 @@ layout: default
 # 黄存亚
 ### Web前端		工作七年
 
-<!-- [下载简历](/assets/phuhoang.docx) -->
-[下载简历](http://lc-w68zTuMV.cn-n1.lcfile.com/fe452797640ab2c74ce2/phuhoang.docx)
+[下载简历](/assets/phuhoang.docx)
 
 > 热衷于前端开发，熟悉产品开发流程，有很强的产品规划、需求分析、交互设计能力，能独立承担中型项目的管控工作
 

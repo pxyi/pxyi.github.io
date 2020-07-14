@@ -1,5 +1,7 @@
 body {
 	display: flex;
+	color: #444 !important;
+	font: 400 14px/1.8 !important;
 }
 .container {
 	flex: auto;
@@ -41,6 +43,7 @@ header.header {
 	float: left;
 	margin-right: 48px;
 	line-height: 60px;
+	font-weight: 400;
 }
 
 
@@ -68,9 +71,6 @@ header.header {
 }
 .leancloud_visitors {
 	margin-left: 42px;
-	i {
-		font-style: normal;
-	}
 }
 
 
@@ -83,6 +83,23 @@ hr {
 	text-align: center;
 	a, em ,span {
 		margin: 0 8px;
-		font-style: normal;
 	}
+}
+i, em, .c1 {
+	font-style: normal !important;
+}
+pre, code {
+	font-size: 14px !important;
+	line-height: 1.8 !important;
+	background-color: #f8f8f8 !important;
+}
+
+blockquote {
+	margin: 20px 0;
+}
+table th {
+	font-size: 14px;
+}
+h1, h2, h3, h4, h5, h6 {
+	color: #000;
 }
