@@ -17,7 +17,7 @@ layout: default
 ## 专业技能
 
 * 精通H5、Css3、Es6及Jquery、Zepto等前端基础知识
-* 精通Angular、Vue、React
+* 精通Angular、Vue，熟练React
 * 熟练使用Node + Koa2 + MongoDB..... 及配套中间件开发服务端应用程序
 * 熟练掌握Npm、Webpack、Gulp等前端自动化工具
 * 精通微信公众平台及小程序开发，熟练根据开发第三方开发文档开发测试Demo，较强的理解学习能力
