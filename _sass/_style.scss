@@ -1,7 +1,10 @@
 body {
 	display: flex;
 	color: #444 !important;
-	font: 400 14px/1.8 !important;
+	font: 400 14px/2 !important;
+}
+body p {
+	line-height: 28px;
 }
 .container {
 	flex: auto;

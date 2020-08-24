@@ -11,7 +11,7 @@ layout: default
           <span class="date">{{ post.date | date: "%Y-%m-%d" }}</span>
         </p>
         <div class="excerpt">
-          {{ post.excerpt | strip_html }}
+          {{ post.description | strip_html }}
         </div>
       </li>
     {% endfor %}
