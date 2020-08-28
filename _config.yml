@@ -1,5 +1,13 @@
+---
 title: phuhoang
 timezone: UTC
+collections:
+  posts:
+    title: Posts
+    output: true
+  uploads:
+    title: Uploads
+    output: true
 email: phuhoang@sina.com
 author: phuhoang
 description: phuhoang 个人博客
@@ -7,11 +15,8 @@ baseurl: ''
 url: pxyi.github.io
 github_username: pxyi
 theme: minima
-
 valine: true
-
-
-plugins: [jekyll-paginate]
-
-paginate: 10  
+plugins:
+- jekyll-paginate
+paginate: 10
 paginate_path: ":num"

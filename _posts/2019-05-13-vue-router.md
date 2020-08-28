@@ -1,10 +1,11 @@
 ---
-layout: article
 title: Vue-Router核心实现原理
+date: 2019-05-13 00:00:00 Z
+categories:
+- mvvm
+layout: article
 keywords: Vue-Router,Vue-Router核心实现原理
 description: Vue-Router核心实现原理
-date: 2019-05-13 00:00:00 Z
-categories: mvvm
 ---
 
 随着前端应用的业务功能越来越复杂、用户对于使用体验的要求越来越高，单页应用（SPA）成为前端应用的主流形式。大型单页应用最显著特点之一就是采用前端路由系统，通过改变URL，在不重新请求页面的情况下，更新页面视图。

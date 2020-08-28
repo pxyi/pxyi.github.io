@@ -1,12 +1,12 @@
 ---
-layout: article
 title: 关于浏览器内核
+date: 2019-05-20 00:00:00 Z
+categories:
+- other
+layout: article
 keywords: 浏览器内核,常见的浏览器内核,浏览器内核的组成
 description: 浏览器内核主要分成两部分：渲染引擎(layout engineer或 Rendering Engine) 和 JS 引擎
-date: 2019-05-20 00:00:00 Z
-categories: other
 ---
-
 
 ## 浏览器内核的组成部分
 

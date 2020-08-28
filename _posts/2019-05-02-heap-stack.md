@@ -1,10 +1,11 @@
 ---
-layout: article
 title: JavaScript 堆栈
+date: 2019-05-02 00:00:00 Z
+categories:
+- javascript
+layout: article
 keywords: js 堆栈,堆栈,js中的堆栈,javascript堆栈
 description: JS的堆栈，主要的问题就是内存的使用和分配了。堆是动态分配内存，内存大小不一，也不会自动释放（常见的内存溢出问题）。栈是自动分配相对固定大小的内存空间，并由系统自动释放。池存放常量，所以也叫常量池
-date: 2019-05-02 00:00:00 Z
-categories: javascript
 ---
 
 ## 堆（heap）栈（stack）
